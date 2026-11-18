@@ -12,3 +12,4 @@ function removeDuplicates(arr) {
     return [firstElement].concat(filteredRest);
   }
 }
+console.log(removeDuplicates(arr));
